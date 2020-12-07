@@ -5,17 +5,17 @@ In Alien Invasion, the player controls a ship that appears at the bottom center 
 *-> Created and tested in Windows 7 with python 3.8.6.*
 
 *dependencies:*
-* *pygame*
+* pygame
 
-*command to install pygame after python installation and using command line:*
+*command to install pygame after python installation and using windows 7 command line:*
 ```
 > py -m pip install -U pygame --user
 ```
 
-*run game:*
+*run game using windows 7 command line:*
 ```
 > cd alien_invasion && python alien_invasion.py
 ```
 
-###### *Note:*
+*Note:*
 Copied from book Python Crash Course: A Hands-On, Project-Based Introduction to Programming by Eric Matthes (1st Edition - 2015)
